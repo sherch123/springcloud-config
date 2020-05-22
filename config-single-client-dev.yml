@@ -1,5 +1,2 @@
-data:
-  env: localhost-dev-edit8899
-  user:
-    username: fengzheng-dev999
-    password: password-dev
+config:
+  info: "master branch,springcloud-config/config-single-client-dev.yml version=1"
